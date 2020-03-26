@@ -36,11 +36,11 @@
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
                     <!-- first check box -->
-                    <CheckBox VerticalAlignment="Center" VerticalContentAlignment="Center" Content="First" Margin="10 10 0 0"/>
+                    <CheckBox FontSize="14" VerticalAlignment="Center" VerticalContentAlignment="Center" Content="First" Margin="10 10 0 0"/>
                     <!-- second check box -->
-                    <CheckBox VerticalAlignment="Center" VerticalContentAlignment="Center" Grid.Column="1" Content="Second" Margin="0 10 0 0"/>
+                    <CheckBox FontSize="14" VerticalAlignment="Center" VerticalContentAlignment="Center" Grid.Column="1" Content="Second" Margin="0 10 0 0"/>
                     <!-- combo box -->
-                    <ComboBox Grid.Column="2" Margin="0 10 15 0">
+                    <ComboBox Grid.Column="2" Margin="0 10 15 0" FontSize="14">
                         <ComboBoxItem Content="First Item"/>
                         <ComboBoxItem Content="Second Item"/>
                         <ComboBoxItem Content="Third Item"/>
@@ -54,9 +54,9 @@
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
                     <!-- Third check box -->
-                    <CheckBox VerticalAlignment="Center" VerticalContentAlignment="Center" Content="Third" Margin="10 10 0 0"/>
+                    <CheckBox FontSize="14" VerticalAlignment="Center" VerticalContentAlignment="Center" Content="Third" Margin="10 10 0 0"/>
                     <!-- Fourth check box -->
-                    <CheckBox VerticalAlignment="Center" VerticalContentAlignment="Center" Grid.Column="1" Content="Fourth" Margin="0 10 0 0"/>
+                    <CheckBox FontSize="14" VerticalAlignment="Center" VerticalContentAlignment="Center" Grid.Column="1" Content="Fourth" Margin="0 10 0 0"/>
                 </Grid>
                 <!-- Third row of checkboxes -->
                 <Grid>
@@ -66,9 +66,9 @@
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
                     <!-- Fifth check box -->
-                    <CheckBox VerticalAlignment="Center" VerticalContentAlignment="Center" Content="Fifth" Margin="10 10 0 0"/>
+                    <CheckBox FontSize="14" VerticalAlignment="Center" VerticalContentAlignment="Center" Content="Fifth" Margin="10 10 0 0"/>
                     <!-- Sixth check box -->
-                    <CheckBox VerticalAlignment="Center" VerticalContentAlignment="Center" Grid.Column="1" Content="Sixth" Margin="0 10 0 0"/>
+                    <CheckBox FontSize="14" VerticalAlignment="Center" VerticalContentAlignment="Center" Grid.Column="1" Content="Sixth" Margin="0 10 0 0"/>
                 </Grid>
                 <TextBlock Text="Rich Text Box" Margin="10 10 0 0" FontWeight="Bold"/>
                 <!-- Rich text box -->
