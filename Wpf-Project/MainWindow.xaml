@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_Project"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="600">
+        Title="MainWindow" Height="500" Width="400">
     <TabControl>
         <!-- first tab -->
         <TabItem Header="Tab 1" FontSize="16">
@@ -22,7 +22,7 @@
                     <!-- Load button -->
                     <Button Grid.Column="1" Content="load" Margin="5 10 5 0" ToolTip="Click To Load"/>
                     <!-- R button -->
-                    <Button Grid.Column="2" Content="R" Margin="20 10 20 0" ToolTip="R"/>
+                    <Button Grid.Column="2" Content="R" Margin="5 10 10 0" ToolTip="R"/>
                 </Grid>
                 <!-- New button -->
                 <Button Content="New" Margin="10 15 10 0" FontWeight="Bold" ToolTip="Click To Open A New Form"/>
