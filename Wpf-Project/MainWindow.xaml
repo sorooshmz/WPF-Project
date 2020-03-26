@@ -82,6 +82,7 @@
             <StackPanel>
                 <!-- Text block -->
                 <TextBlock Text="Form 2" Margin="10 10 10 0" FontWeight="Bold" FontSize="20"/>
+                <!-- first name grid -->
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="*"/>
@@ -90,6 +91,7 @@
                     <TextBlock Text="First Name : " Margin="10 20 0 0"/>
                     <TextBox Grid.Column="1" Background="LightGray" Margin="0 20 10 0"/>
                 </Grid>
+                <!-- last name grid -->
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="*"/>
@@ -98,6 +100,7 @@
                     <TextBlock Text="Last Name : " Margin="10 20 0 0"/>
                     <TextBox Grid.Column="1" Background="LightGray" Margin="0 20 10 0"/>
                 </Grid>
+                <!-- age grid -->
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="*"/>
@@ -106,6 +109,7 @@
                     <TextBlock Text="Age : " Margin="10 20 0 0"/>
                     <TextBox Grid.Column="1" Background="LightGray" Margin="0 20 10 0"/>
                 </Grid>
+                <!-- equations grid -->
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="*"/>
