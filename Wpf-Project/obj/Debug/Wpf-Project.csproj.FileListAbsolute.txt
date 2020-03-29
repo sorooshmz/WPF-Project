@@ -1,0 +1,14 @@
+C:\WPF-Project\Wpf-Project\bin\Debug\Wpf-Project.exe.config
+C:\WPF-Project\Wpf-Project\bin\Debug\Wpf-Project.exe
+C:\WPF-Project\Wpf-Project\bin\Debug\Wpf-Project.pdb
+C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project.csprojAssemblyReference.cache
+C:\WPF-Project\Wpf-Project\obj\Debug\MainWindow.g.cs
+C:\WPF-Project\Wpf-Project\obj\Debug\App.g.cs
+C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project_MarkupCompile.cache
+C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project_MarkupCompile.lref
+C:\WPF-Project\Wpf-Project\obj\Debug\MainWindow.baml
+C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project.g.resources
+C:\WPF-Project\Wpf-Project\obj\Debug\Wpf_Project.Properties.Resources.resources
+C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project.csproj.GenerateResource.cache
+C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project.exe
+C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project.pdb
