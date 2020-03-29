@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Wpf_Project"
         mc:Ignorable="d"
         Title="MainWindow" Height="500" Width="400" Background="LightGray">
-    <TabControl>
+    <TabControl x:Name="TabControl">
         <!-- first tab -->
         <TabItem Header="Tab 1" FontSize="16">
             <StackPanel>
@@ -74,7 +74,7 @@
                 <!-- Rich text box -->
                 <RichTextBox Background="LightGray" Margin="10 15 10 0" Height="125" IsReadOnly="False"/>
                 <!-- Next Page button -->
-                <Button Content="Next Page" Margin="60 20 60 20" ToolTip="Click To Go To Next Page"/>
+                <Button x:Name="NextPageButton" Click="NextPageButton_Click" Content="Next Page" Margin="60 20 60 20" ToolTip="Click To Go To Next Page"/>
             </StackPanel>
         </TabItem>
         <!-- Second tab -->
@@ -118,8 +118,10 @@
                     <TextBlock Text="Equations : " Margin="10 20 0 0"/>
                     <RichTextBox Grid.Column="1" Background="LightGray" Margin="0 20 10 0" Height="100"/>
                 </Grid>
-                <!-- second tab's button -->
-                <Button Content="Show a picture" Margin="50 40 50 0" FontSize="25" ToolTip="Show A Pic" HorizontalContentAlignment="Center"/>
+                <!-- Picture -->
+                <StackPanel>
+                    <Image Source="images/first.jpg" Width="225" Margin="81.5 10 "/>
+                </StackPanel>
             </StackPanel>
         </TabItem>
     </TabControl>
