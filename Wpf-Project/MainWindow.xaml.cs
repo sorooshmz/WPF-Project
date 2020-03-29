@@ -24,5 +24,10 @@ namespace Wpf_Project
         {
             InitializeComponent();
         }
+
+        private void NextPageButton_Click(object sender, RoutedEventArgs e)
+        {
+            TabControl.SelectedIndex = 1;
+        }
     }
 }
