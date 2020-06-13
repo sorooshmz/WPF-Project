@@ -12,3 +12,4 @@ C:\WPF-Project\Wpf-Project\obj\Debug\Wpf_Project.Properties.Resources.resources
 C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project.csproj.GenerateResource.cache
 C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project.exe
 C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project.pdb
+C:\WPF-Project\Wpf-Project\obj\Debug\Wpf-Project.csproj.CoreCompileInputs.cache
